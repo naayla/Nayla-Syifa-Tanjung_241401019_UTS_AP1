@@ -10,7 +10,7 @@ Berikut rules UTS yang harus kalian ikuti!
 
 a. Kerjakan 5 soal (Materi berdasarkan Modul 1-4).
 
-b. Kirim link repo GitHub kalian di https://forms.gle/rTQKCz66DvbCxS1u8. Deadline submit link repo :  19 April (23.59 WIB)
+b. Kirim link repo GitHub kalian di https://forms.gle/rTQKCz66DvbCxS1u8. Deadline submit link repo :  19 April (22.00 WIB)
 
 c. WAJIB chat Asisten Lab setelah submit link GForm  + booking jadwal (poin c di Jadwal Presentasi)
 
@@ -41,7 +41,7 @@ Fork repository ini dan rename menjadi NAMA_NIM_UTS_AP1
 
 Silahkan masukkan link gdrive (untuk soal 5) dalam kotak berikut
 
-      [link]
+   https://drive.google.com/drive/folders/1ll8ZMRjE1ghzcTW9rJKJT5pid4lIEsY9 
       
 
 # ⚠️ _JANGAN COBA-COBA UNTUK COPY PASTE CODE DARI TEMAN ATAUPUN YANG ADA DI GOOGLE. MOHON KERJAKAN MASING-MASING._ ⚠️
